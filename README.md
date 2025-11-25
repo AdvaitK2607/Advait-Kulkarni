@@ -31,14 +31,6 @@
 
 ---
 
-
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaitK2607&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### ✨ Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/advait-kulkarni-41a13427b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
